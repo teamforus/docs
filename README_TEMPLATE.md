@@ -25,9 +25,9 @@ Some of the headers are marked as (optional), they can be left out if they do no
 
 ## Goal
 
-*In a couple sentences explain the goal of the repository. It is recommended to re-use the description your have given when initiating your repository..*
-
 [INSERT PARAGRAPH]
+
+*In a couple sentences explain the goal of the repository. It is recommended to re-use the description your have given when initiating your repository..*
 
 ## Brief overview
 
@@ -47,13 +47,13 @@ Some of the headers are marked as (optional), they can be left out if they do no
 
 *These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system*
 
-### Prerequisites (optional)
+## Prerequisites (optional)
 
 *What things you need to install the software and how to install them*
 
 [INSERT PARAGRAPH] 
 
-### Installing (optional)
+## Installing (optional)
 
 *A step by step series of examples that tell you have to get a development envirnnement running*
 
