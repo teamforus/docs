@@ -1,23 +1,15 @@
-## Using this template
+# Using this template
 
-This template is based on best practices. It is a living markdown file. We appreciate suggestions on improvements.
+This template is based on best practices. It is a living markdown file. We appreciate suggestions on improvements and would like to hear from you.
 
-Use a README.md file when setting up a new repository. This template gives a start by providing a set of useful headers and descriptions.
+Use a README.md file when setting up a new repository. This template gives a start by providing a set of useful headers and descriptions.It will help visitors to understand the why, how and what of your project. 
 
-Whenever you encounter an [INSERT] fill it in with text which suits your project.
-
-By writing a paragraph below each of the headers you will have a useful README.md in no time. It will help visitors to understand the why, how and what of your project. 
-
-The texts in itallic should be removed, they are added for some clarification and inspiration when filling in the template.
-
-Some of the headers are marked as (optional), they can be left out if they do not fit your project.
-
-### Links to useful info:
+### Links to useful information about creating a README.md:
 
 * [Learn more about the markdown language](https://guides.github.com/features/mastering-markdown/)
 * [Learn more about the steps of setting up a repository](https://github.com/teamforus/repository-standards/blob/master/README.md)
 
-*We suggest removing the section above before using this template.*
+*remove the section above before using this template*
 
 # [INSERT PROJECT TITLE] 
 
