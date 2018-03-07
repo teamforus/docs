@@ -19,7 +19,7 @@ Enhancement
 
 Organizational task
 
-*Choose one remove others and add it as a label to the issue*
+*Choose one, remove others and add it as a label to the issue*
 
 ## Prerequisites
 
