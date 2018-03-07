@@ -14,7 +14,7 @@ Fill in the ISSUE_Template.md file when creating a new issue. This template give
 ## Sort of Issue
 
 Bug report
-Feature request
+Enhancement
 Organizational task
 
 *Choose one remove others and add it as a label to the issue*
