@@ -1,6 +1,6 @@
 # Using this template
 
-This template is based on best practices. It is a living markdown file. We appreciate suggestions on improvements and would like to hear from you. 
+This template is based on best practices. It is a living markdown file. We appreciate suggestions on improvements and would like to hear from you.
 
 Fill in the ISSUE_Template.md file when creating a new issue. This template gives a start by providing a set of useful headers and descriptions. It will help contributors understand the issue and if is technically orientated re-create it.
 
@@ -12,18 +12,13 @@ Fill in the ISSUE_Template.md file when creating a new issue. This template give
 *remove the section above before using this template*
 
 
-# [INSERT ISSUE TITLE] 
+# [INSERT ISSUE TITLE]
 
 *remove the section above before using this template*
 
 ## Prerequisites
 
-* [ ] Put an X between the brackets on this line if you have done all of the following:
-    * Reproduced the problem in Safe Mode: https://flight-manual.atom.io/hacking-atom/sections/debugging/#using-safe-mode
-    * Followed all applicable steps in the debugging guide: https://flight-manual.atom.io/hacking-atom/sections/debugging/
-    * Checked the FAQs on the message board for common solutions: https://discuss.atom.io/c/faq
-    * Checked that your issue isn't already filed: https://github.com/issues?utf8=✓&q=is%3Aissue+user%3Aatom
-    * Checked that there is not already an Atom package that provides the described functionality: https://atom.io/packages
+
 
 ## Description
 
