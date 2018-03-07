@@ -1,6 +1,6 @@
 # Using this template
 
-This template is based on best practices. It is a living markdown file. We appreciate suggestions on improvements and would like to hear from you.
+This template is based on best practices. It is a living markdown file. We appreciate suggestions on improvements and would like to hear from you. Write us an email at info@forus.io or ask your question at chat.forus.io.
 
 Fill in the ISSUE_Template.md file when creating a new issue. This template gives a start by providing a set of useful headers and descriptions. It will help contributors understand the issue and if is technically orientated re-create it.
 
@@ -11,24 +11,35 @@ Fill in the ISSUE_Template.md file when creating a new issue. This template give
 
 *remove the section above before using this template*
 
+## Sort of Issue
 
-# [INSERT ISSUE TITLE]
+Bug report
+Feature request
+Organizational task
 
-*remove the section above before using this template*
+*Choose one remove others and add it as a label to the issue*
 
 ## Prerequisites
 
+1. [INSERT PREREQUISITE 1]
+2. [INSERT PREREQUISITE 2]
+3. [INSERT PREREQUISITE 3]
 
+*Describe what is needed beforehand to be able to solve this ISSUE*
 
 ## Description
 
-[Description of the issue]
+[INSERT PARAGRAPH]
 
-## Steps to Reproduce
+*Describe this issue in a clear and concise way*
 
-1. [First Step]
-2. [Second Step]
-3. [and so on...]
+## Steps to Reproduce (bug report)
+
+1. [INSERT STEP 1]
+2. [INSERT STEP 2]
+3. [INSERT STEP 3]
+
+*Give a step by step guide to reproduce the bug*
 
 **Expected behavior:** [What you expect to happen]
 
@@ -36,10 +47,18 @@ Fill in the ISSUE_Template.md file when creating a new issue. This template give
 
 **Reproduces how often:** [What percentage of the time does it reproduce?]
 
-## Versions
+## Functional Design (feature request)
 
-You can get this information from copy and pasting the output of `atom --version` and `apm --version` from the command line. Also, please include the OS and what version of the OS you're running.
+1. [INSERT STEP 1]
+2. [INSERT STEP 2]
+3. [INSERT STEP 3]
 
-## Additional Information
+**User Story:** [What you expect to happen]
 
-Any additional information, configuration or data that might be necessary to reproduce the issue.
+## Version (optional)
+
+[INSERT VERSION NUMBER]
+
+## Additional Information (optional)
+
+*Any additional information, configuration or data that might be necessary to reproduce the issue.*
