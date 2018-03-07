@@ -14,7 +14,9 @@ Fill in the ISSUE_Template.md file when creating a new issue. This template give
 ## Sort of Issue
 
 Bug report
+
 Enhancement
+
 Organizational task
 
 *Choose one remove others and add it as a label to the issue*
@@ -47,7 +49,7 @@ Organizational task
 
 **Reproduces how often:** [What percentage of the time does it reproduce?]
 
-## Functional Design (feature request)
+## Functional Design (Enhancement)
 
 1. [INSERT STEP 1]
 2. [INSERT STEP 2]
