@@ -1,13 +1,13 @@
 # Using this template
 
-This template is based on best practices. It is a living markdown file. We appreciate suggestions on improvements and would like to hear from you.
+This template is based on best practices. It is a living markdown file. We appreciate suggestions on improvements and would like to hear from you. 
 
-Use a README.md file when setting up a new repository. This template gives a start by providing a set of useful headers and descriptions.It will help visitors to understand the why, how and what of your project. 
+Use a README.md file when setting up a new repository. This template gives a start by providing a set of useful headers and descriptions. It will help visitors to understand the why, how and what of your project. 
 
 ### Links to useful information about creating a README.md:
 
 * [Learn more about the markdown language](https://guides.github.com/features/mastering-markdown/)
-* [Learn more about the steps of setting up a repository](https://github.com/teamforus/repository-standards/blob/master/README.md)
+* [Learn more about writing a readable README.md](https://open-source-guide.18f.gov/making-readmes-readable/)
 
 *remove the section above before using this template*
 
@@ -29,9 +29,18 @@ Use a README.md file when setting up a new repository. This template gives a sta
 
 ## Table of content (optional)
 
-[INSERT TABLE OF CONTENT] 
+* [INSERT HEADER 2] (#[INSERT HEADER 2])
+  * [INSERT HEADER 3] (#[INSERT HEADER 3])
+  * [INSERT HEADER 3] (#[INSERT HEADER 3])
+* [INSERT HEADER 2] (#[INSERT HEADER 2])
+  * [INSERT HEADER 3] (#[INSERT HEADER 2])
+  * [INSERT HEADER 3] (#[INSERT HEADER 3])
+* [INSERT HEADER 2] (#[INSERT HEADER 2])
+  * [INSERT HEADER 3] (#[INSERT HEADER 3])
+  * [INSERT HEADER 3] (#[INSERT HEADER 3])
 
-*Table of contents is used to give an overview in case your README.md contains al lot of headers.*
+
+*Table of contents is used to give an overview in case your README.md contains al lot of information*
 
 ## Getting Started (optional)
 
@@ -72,6 +81,12 @@ Use a README.md file when setting up a new repository. This template gives a sta
 ## Contributing
 
 *Decide if you welcome contributions and how people can get started*
+
+Fork bijwerken pull toewijzen voor review
+Issue
+Mail 
+
+
 
 [INSERT PARAGRAPH] 
 
