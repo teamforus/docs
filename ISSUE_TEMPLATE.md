@@ -1,5 +1,22 @@
+# Using this template
 
-### Prerequisites
+This template is based on best practices. It is a living markdown file. We appreciate suggestions on improvements and would like to hear from you. 
+
+Fill in the ISSUE_Template.md file when creating a new issue. This template gives a start by providing a set of useful headers and descriptions. It will help contributors understand the issue and if is technically orientated re-create it.
+
+### Links to useful information about creating Issues:
+
+* [Learn more about creating issues](https://guides.github.com/features/issues/)
+* [Learn more about writing a readable README.md](https://open-source-guide.18f.gov/making-readmes-readable/)
+
+*remove the section above before using this template*
+
+
+# [INSERT ISSUE TITLE] 
+
+*remove the section above before using this template*
+
+## Prerequisites
 
 * [ ] Put an X between the brackets on this line if you have done all of the following:
     * Reproduced the problem in Safe Mode: https://flight-manual.atom.io/hacking-atom/sections/debugging/#using-safe-mode
@@ -8,11 +25,11 @@
     * Checked that your issue isn't already filed: https://github.com/issues?utf8=✓&q=is%3Aissue+user%3Aatom
     * Checked that there is not already an Atom package that provides the described functionality: https://atom.io/packages
 
-### Description
+## Description
 
 [Description of the issue]
 
-### Steps to Reproduce
+## Steps to Reproduce
 
 1. [First Step]
 2. [Second Step]
@@ -24,10 +41,10 @@
 
 **Reproduces how often:** [What percentage of the time does it reproduce?]
 
-### Versions
+## Versions
 
 You can get this information from copy and pasting the output of `atom --version` and `apm --version` from the command line. Also, please include the OS and what version of the OS you're running.
 
-### Additional Information
+## Additional Information
 
 Any additional information, configuration or data that might be necessary to reproduce the issue.
