@@ -76,6 +76,8 @@ Interplanetary File-system. A decentralized way of storing data.
 * ethereum
 
 Ethereum is the name of a decentralized blockchain network. The foundations vision is that the Ethereum will be fast world supercomputer.
-* blockchain
+* ERC
+
+Ethereum Request for Comment
 
 * 
