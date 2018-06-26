@@ -11,6 +11,7 @@
 * demo
 * api
 * record
+* property
 * claim
 * validation
 * wallet
@@ -20,3 +21,7 @@
 * transaction
 * block
 * mine
+* ipfs
+* ethereum
+* blockchain
+* 
