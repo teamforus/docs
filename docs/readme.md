@@ -8,7 +8,7 @@ You're a bit early.. A lot of what you'll read here will be subject to change. F
 * [FAQ](faq.md)
 * Repo docs
   * [me](readme/me/README.md)
-  * [forus.io](readme/forus.io/README.md)
+  * [forus.io](readme/forus/README.md)
   * [research-and-development](readme/research-and-development/README.md)
   * [organisation](readme/organisation/README.md)
   * [foundation](readme/foundation/README.md)
