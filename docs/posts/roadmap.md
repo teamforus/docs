@@ -11,6 +11,14 @@
 | 0.1.0 | Organisational decentralisation | This version consists of a platform with four decentralized roles: sponsor, provider, requester and validator. The main goal is to make the barrier for any party to fulfilling one or more of the roles as low as possible. On the technical side the application is still mostly traditional. The platform is built on top of a PHP/MySQL stack. It currently uses a private ethereum node and a private IPFS node to research decentralizing even further. <br><br> On 1 june 2018 we started open source development on the first version of forus. With lessons learned from our proof of concept, this version is meant to be more scalable, modulair, upgradable and extensible. While the main focus of this platform is to provide real value to end users, we are also using it to work towards our vision of full decentralisation. 
 | 1.0.0 | Technical decentralisation | The final vision of forus is to be a fully decentralized system where users can create funds, set criteria for who is eligible to recieve the funds, and for those people to apply for funds without interference of any centralized party (including [Foundation Forus](\../readme/foundation/README.md)). Reaching this vision will take time and resources, but we are set on achieving it.
 
+### Organisational decentralisation
+
+| Aim Date | Sponsor | Validator | Provider | Requester
+| --- | --- | --- | --- | --- | --- |
+| 1 Sept | Set criteria | CSV Upload | Special Offers |  |
+| 1 Jan | Aunt Jannie can donate | DigiD becomes validator trough Forus. WK becomes validator. | |
+| 1 Apr | Lungfund becomes sponsor | p2p validation; smokes y/n
+
 
 ## Me: an app for managing identity, assets and records  
 
@@ -19,3 +27,11 @@
 | 0.0.0 | Demo | During a feasibiltiy study we worked on for the Dutch RVO we created a vision for a self sovereign identity solution that would be user friendly, based on standards, and fitting the needs of forus.io and other applications. bla bla. <br> <br> During a field lab for the assosiation of dutch... we created the first demo of how this system would work.
 | 0.1.0 | Digital identity | We are currently working on the first real-world application of the me app. It is to be launched together with forus v0.1.0. Initialy the feature set will be focussed on providing the right funcionality to operate together with the forus platform. We will use it to learn how the application behaves in the real world, and use these lessons for future development. <br><br> The main focus is to learn how to provide maximum value to real-world users.
 | 1.0.0 | Self sovereign identity | The full vision of the me app is to be a fully self-sovereign identity. Meaning that you own your data and keys, and there is no centralized party involved. Just like with forus this is a vision that required time and dedication.
+
+### Digital identity
+
+| Aim Date | Identification | Wallet | Records
+| --- | --- | --- | --- | --- | --- |
+| 1 Sept | | | | | |
+| 1 Jan | | | | | |
+| 1 Apr | | | | | |
