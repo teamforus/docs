@@ -13,8 +13,8 @@
 
 ### Organisational decentralisation
 
-| Aim Date | Sponsor | Validator | Provider | Requester
-| --- | --- | --- | --- | --- | --- |
+| Aim Date | Sponsor | Validator | Provider | Requester |
+| --- | --- | --- | --- | --- |
 | 1 Sept | Set criteria | CSV Upload | Special Offers |  |
 | 1 Jan | Aunt Jannie can donate | DigiD becomes validator trough Forus. WK becomes validator. | |
 | 1 Apr | Lungfund becomes sponsor | p2p validation; smokes y/n
@@ -30,8 +30,8 @@
 
 ### Digital identity
 
-| Aim Date | Identification | Wallet | Records
-| --- | --- | --- | --- | --- | --- |
+| Aim Date | Identification | Wallet | Records |
+| --- | --- | --- | --- |
 | 1 Sept | | | | | |
 | 1 Jan | | | | | |
 | 1 Apr | | | | | |
