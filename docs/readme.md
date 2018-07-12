@@ -7,12 +7,11 @@ You're a bit early.. A lot of what you'll read here will be subject to change. F
 * [Glossary](glossary.md)
 * [FAQ](faq.md)
 * Repo docs
-  * [me](readme/me/README.md)
-  * [forus.io](readme/forus/README.md)
+  * [**me**](https://github.com/teamforus/me/blob/develop/README.md)
+  * [**forus**](https://github.com/teamforus/forus/blob/dev/README.md)
   * [research-and-development](readme/research-and-development/README.md)
-  * [organisation](readme/organisation/README.md)
   * [foundation](readme/foundation/README.md)
-  * [service](readme/service/README.md)
+  * [*service*](readme/service/README.md)
 * Posts
  * [Introductie tot blockchain (dutch, needs translation)](posts/blockchain-intro.md)
  * [Introduction to blockchain (en)](posts/blockchain-intro-en.md)
