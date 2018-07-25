@@ -2,6 +2,5 @@
 
 **This repository is maintained by:** [@jamalv](https://github.com/jamalv)
 
-
 # knowledge-base
 Main source of information about everything Forus
