@@ -1,0 +1,68 @@
+- title: Forus
+  docs:
+  - api.forus.io-eth
+  - api.forus.io
+  - api.forus.io.v1
+  - Forus_README
+  - Messages
+  - mvp
+  - services.forus.io
+
+- title: Foundation
+  docs:
+  - Action-Plan
+  - Board-of-Direction
+  - Board-of-Supervision
+  - Communication
+  - Community
+  - Development
+  - Directieoverleg
+  - Division-of-responsibilities
+  - Finance
+  - Foundation_README
+  - Human-Resources
+  - Implementation
+  - Improving-policies
+  - Incoming-offertes
+  - Mission
+  - Objectives
+  - Risk-management
+  - Road-map-organisational
+  - Sidebar
+  - Sprint-demo-script
+  - Statuten
+  - Strategy
+  - Support
+  - The-maintainer-manual
+  - Values
+  - Vision
+  - Wiki
+
+- title: Implementation
+  docs:
+  - Implementation_README
+
+- title: Knowledge-base
+  docs:
+  - faq
+  - glossary
+
+- title: Knowledge-base-posts
+  docs:
+  - blockchain-intro-en
+  - blockchain-intro
+
+- title: Me
+  docs:
+  - ME_README
+
+- title: Me-standards
+  docs:
+  - ERC20
+  - ERC721
+  - ERC725
+  - ERC735 
+
+- title: Research-and-development
+  docs:
+  - Rnd_README
