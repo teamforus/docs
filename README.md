@@ -1,10 +1,3 @@
----
-title: Welcome
-permalink: /docs/home/
-redirect_from: /docs/index.html
----
-
-## Welcome
 **note:** work in progress, beware of the dragons 🐉 
 
 **This repository is maintained by:** [@jamalv](https://github.com/jamalv)
