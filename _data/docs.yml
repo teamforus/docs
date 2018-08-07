@@ -61,7 +61,6 @@
 
 - title: Me-standards
   docs:
-  - Me-standards_README
   - ERC20
   - ERC721
   - ERC725
