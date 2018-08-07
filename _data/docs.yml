@@ -1,5 +1,6 @@
 - title: Forus
   docs:
+  - Forus_README
   - api.forus.io-eth
   - api.forus.io
   - api.forus.io.v1
@@ -9,6 +10,7 @@
 
 - title: Foundation
   docs:
+  - Foundation_README
   - Action-Plan
   - Board-of-Direction
   - Board-of-Supervision
@@ -35,26 +37,31 @@
   - Values
   - Vision
   - Wiki
+  
 
 - title: Implementation
   docs:
-
+  - Implementation_README
+  
 - title: Knowledge-base
   docs:
   - faq
-  - glossary
+  - Knowledge-base_README
 
 - title: Knowledge-base-posts
   docs:
   - blockchain-intro-en
   - blockchain-intro
+  - Knowledge-base-posts_README
 
 - title: Me
   docs:
+  - Me_README
 
 
 - title: Me-standards
   docs:
+  - Me-standards_README
   - ERC20
   - ERC721
   - ERC725
@@ -62,3 +69,4 @@
 
 - title: Research-and-development
   docs:
+  - Research-and-development_README
