@@ -49,6 +49,7 @@ defaults:
 
 - scope:
     path: _docs
+    max_path: docs
     type: docs
   values:
     layout: docs
