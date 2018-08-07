@@ -1,6 +1,6 @@
 ---
 title: glossary
-permalink: /docs/glossary/
+permalink: /docs/Knowledge-base_README/
 ---
 
 ## Glossary
