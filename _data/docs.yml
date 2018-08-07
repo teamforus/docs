@@ -45,8 +45,8 @@
   
 - title: Knowledge-base
   docs:
+  - Knowledge-base_README  
   - faq
-  - Knowledge-base_README
 
 - title: Knowledge-base-posts
   docs:
