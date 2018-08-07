@@ -1,6 +1,6 @@
 ---
 title: REAMDE
-permalink: /docs/ME_README/
+permalink: /docs/Me_README/
 ---
 
 [![join chat](https://img.shields.io/badge/join%20chat-me-green.svg)](https://chat.forus.io/channel/me)
