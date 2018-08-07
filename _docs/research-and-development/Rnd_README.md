@@ -1,6 +1,6 @@
 ---
-title: REAMDE
-permalink: /docs/Rnd_README/
+title: README
+permalink: /docs/Research-and-development_README/
 ---
 
 **This repository is maintained by:** [@jamalv](https://github.com/jamalv)
