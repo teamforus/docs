@@ -1,6 +1,6 @@
 ---
 title: ERC20
-permalink: /docs/ERC20/
+permalink: /docs/Me-standards_README/
 ---
 
 ## Standard: ERC20
