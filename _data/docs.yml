@@ -3,7 +3,6 @@
   - api.forus.io-eth
   - api.forus.io
   - api.forus.io.v1
-  - Forus_README
   - Messages
   - mvp
   - services.forus.io
@@ -19,7 +18,6 @@
   - Directieoverleg
   - Division-of-responsibilities
   - Finance
-  - Foundation_README
   - Human-Resources
   - Implementation
   - Improving-policies
@@ -40,7 +38,6 @@
 
 - title: Implementation
   docs:
-  - Implementation_README
 
 - title: Knowledge-base
   docs:
@@ -54,7 +51,7 @@
 
 - title: Me
   docs:
-  - ME_README
+
 
 - title: Me-standards
   docs:
@@ -65,4 +62,3 @@
 
 - title: Research-and-development
   docs:
-  - Rnd_README
