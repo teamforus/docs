@@ -6,7 +6,7 @@ description:
   providing documentation and blog post pages.
 
 baseurl: "/docs" # the subpath of your site, e.g. /blog/
-url: https://teamforus.github.io/docs # the base hostname & protocol for your site
+url: https://docs.forus.io/ # the base hostname & protocol for your site
 git_address: https://github.com/teamforus/docs
 git_edit_address: https://github.com/teamforus/docs/blob/gh-pages
 
