@@ -1,6 +1,6 @@
 ---
 title: blockchain-intro
-permalink: /docs/blockchain-intro/
+permalink: /docs/Knowledge-base-posts_README/
 ---
 
 # Introductie tot blockchain
