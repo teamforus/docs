@@ -3,6 +3,9 @@ title: Action-Plan
 permalink: /docs/Action-Plan/
 ---
 
+_Wiki's such as these are living documents. If you want to improve anything; feel free to make an issue and bring it to the attention of the team in both the real and digital world. Our policy on making issues and altering wiki's you can find here._
+
+
 Organisation General
 
 Consolidation
