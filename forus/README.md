@@ -1,6 +1,7 @@
 [![join chat](https://img.shields.io/badge/join%20chat-forus-green.svg)](https://chat.forus.io/channel/forus)
 
 Maintainer | [@danrminds](https://github.com/danrminds)
+--- | ---
 
 # Readme
 ## Why we are making forus
